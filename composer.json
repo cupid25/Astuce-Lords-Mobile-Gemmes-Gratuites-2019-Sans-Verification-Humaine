@@ -1,0 +1,24 @@
+{
+    "name": "comment-avoir-des-vbucks-sur-clash-of-clans-francais/vbucks-gratuit-sur-clash-of-clans-2019-android-et-ios",
+    "type": "library",
+    "description": "Générateur vbucks En ligne sur lords mobile pour Android et iOS 2019 - vbucks illimités,",
+    "keywords": ["vbucks gratuit lords mobile","vbucks illimités lords mobile","comment avoir des vbucks sur lords mobile"],
+    "homepage": "https://todayinfos.us/lordsmobilefr/?ref=git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Comment Avoir Des vbucks en lords mobile illimités Gratuit Android et iOS [Générateur vbucks illimités en lords mobile] 2019 CLIQUEZ ICI POUR GENERER EN LIGNE",
+            "website": "https://todayinfos.us/lordsmobilefr/?ref=git",
+            "homepage": "https://todayinfos.us/lordsmobilefr/?ref=git",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
